@@ -23,7 +23,8 @@ This website aims to provide a visually appealing and easy-to-navigate platform 
 
 ## Project Structure
 
-```fashion-website/
+```
+fashion-website/
 ├── index.html
 ├── css/
 │   └── style.css
