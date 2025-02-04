@@ -12,6 +12,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+@font-face {
+    font-family: monument;
+    src: url('../MonumentExtended-Ultrabold.ttf');
+}
+
 #main {
     width: 100%;
     height: 100%;
@@ -88,7 +93,7 @@ body {
     border-right: none;
 }
 
-#nav h3{
+#nav h3 {
     display: none;
 }
 
@@ -225,7 +230,7 @@ body {
     justify-content: center;
     gap: 10px;
     margin-top: 20px;
-    
+
 }
 
 #alphabet h5 {
@@ -339,7 +344,7 @@ body {
     border-radius: 50%;
 }
 
-#page3 #left #rounded-text:hover{
+#page3 #left #rounded-text:hover {
     rotate: 90deg;
     transition: all ease 1.8s;
 }
@@ -398,7 +403,7 @@ body {
     position: relative;
 }
 
-.elem:hover{
+.elem:hover {
     background-color: rgb(239, 236, 236);
 }
 
@@ -502,7 +507,7 @@ body {
     height: 100%;
     background: url('../images/aiman-zenn-CVU_BwsEoJg-unsplash.jpg');
     background-size: cover;
-    
+
 }
 
 #page6-right #img-container #right-img {
@@ -748,28 +753,28 @@ body {
     list-style: none;
 }
 
-#footin-div ul li i{
+#footin-div ul li i {
     font-size: 1.8vw;
     cursor: pointer;
 }
 
-#footin-div ul li:nth-child(1):hover{
+#footin-div ul li:nth-child(1):hover {
     color: #8a3ab9;
 }
 
-#footin-div ul li:nth-child(2):hover{
+#footin-div ul li:nth-child(2):hover {
     color: gray;
 }
 
-#footin-div ul li:nth-child(3):hover{
+#footin-div ul li:nth-child(3):hover {
     color: royalblue;
 }
 
-#footin-div ul li:nth-child(4):hover{
+#footin-div ul li:nth-child(4):hover {
     color: crimson;
 }
 
-#footin-div ul li:nth-child(5):hover{
+#footin-div ul li:nth-child(5):hover {
     color: royalblue;
 }
 
@@ -779,8 +784,7 @@ body {
     font-weight: 600;
 }
 
-#footin-div h4:hover{
+#footin-div h4:hover {
     cursor: pointer;
     color: grey;
 }
-
